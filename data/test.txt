@@ -1,0 +1,10 @@
+HTTP was first documented in RFC 2068 in 1997. That specification was obsoleted by RFC 2616 in 1999, which was 
+likewise replaced by the RFC 7230 family of RFCs in 2014.
+HTTP is a more efficient expression of HTTP's semantics "on the wire", and was published in 2015; it is 
+now supported by virtually all web browsers[2] and major web servers over Transport Layer Security (TLS) 
+using an Application-Layer Protocol Negotiation (ALPN) extension[3] where TLS 1.2 or newer is required.[4][5]
+HTTP is the proposed successor to HTTP/2,[6][7] which is already in use on the web (enabled by default in latest macOS), 
+using UDP instead of TCP for the underlying transport protocol. Like HTTP/2, it does not obsolete previous major 
+versions of the protocol. 
+Support for HTTP/3 was added to Cloudflare and Google Chrome in September 2019,[8][9] and can be enabled in the 
+stable versions of Chrome and Firefox
